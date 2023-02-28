@@ -19,3 +19,4 @@ Currently the project shows the top 24 posts retrieved from r/popular and create
 - At the moment videos play but they are muted. This is due to reddit hosting the video with audio from their own platform. Not really sure at the moment how to adopt that to my front-end
 
 # Screenshots
+![Preview](https://github.com/Dbevan770/reddit-titanium/blob/main/reddit_titanium_preview.png)
